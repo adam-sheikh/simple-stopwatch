@@ -11,7 +11,7 @@ namespace Classes
             var stopWatch = new StopWatch();
             string command;
 
-            Console.WriteLine("type 'start', 'stop' or 'quit'");
+            Console.WriteLine("type 'start', 'stop', 'pause', 'resume' or 'quit'");
             command = Console.ReadLine().ToLower();
 
             while(command != "quit")
