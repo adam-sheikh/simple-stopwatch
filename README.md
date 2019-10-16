@@ -1,2 +1,2 @@
 # simple-stopwatch
-# Re-inventing wheels, because why not?
+# For future use in custom DLLs and other
